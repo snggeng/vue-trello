@@ -1,10 +1,10 @@
+---
+permalink: /index.html
+---
+
 # Trello Clone made with Vue.js
 
-## Name
-* Geng Sng
-* netID: `gs158`
-
-## Challenge Features
+## Features
 * Drag and drop cards or lists to change their positions
 * Assign any number of users to a card
 * On a separate page, manage multiple projects (all users can see all projects), including
@@ -18,11 +18,10 @@
   * Lists
   * Cards
   * Categories
-* These 5 collections were exported from firestore using [`firestore-import-export`](https://github.com/dalenguyen/firestore-import-export) 
+* These 5 collections were exported from firestore using [`firestore-import-export`](https://github.com/dalenguyen/firestore-import-export)
 * You can find these `.json` files inside the `/firestore_json` directory located in the root of this repository
 
 ## Collaborators / Resources
-* I worked on this project on solely on my own.
 * Resources (packages):
   * [Vue](https://vuejs.org/)
   * [jQuery](https://jquery.com/)
