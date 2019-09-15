@@ -1,8 +1,12 @@
----
-permalink: /index.html
+# Vue Trello
+
 ---
 
-# Trello Clone made with Vue.js
+permalink: /index.html
+
+---
+
+Trello Clone made with Vue.js
 
 ## Features
 * Drag and drop cards or lists to change their positions
