@@ -1,0 +1,92 @@
+/*
+ * @author Geng Sng
+ */
+
+/* Hide un-compiled mustache bindings until the Vue instance is ready */
+[v-cloak] {
+  display: none;
+}
+
+/* everything, unless overridden later */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 15px/1.3 'Open Sans', sans-serif;
+    color: #5e5b64;
+    text-align: center;
+}
+
+a, a:visited {
+    outline: none;
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+section, footer, header, aside, nav {
+    display: block;
+}
+
+.red-bg {
+  background-color: rgba(255, 0, 0, 0.8);
+}
+
+.orange-bg {
+  background-color: rgba(255, 127, 80, 0.8);
+}
+
+.yellow-bg {
+  background-color: rgba(255, 255, 0, 0.8);
+}
+
+.olive-bg {
+  background-color: rgba(128, 128, 0, 0.8);
+}
+
+.green-bg {
+  background-color: rgba(124, 252, 0, 0.8);
+}
+
+.teal-bg {
+  background-color: rgba(0, 128, 128, 0.8);
+}
+
+.blue-bg {
+  background-color: rgba(30, 144, 255, 0.8);
+}
+
+.violet-bg {
+  background-color: rgba(138, 43, 226, 0.8);
+}
+
+.purple-bg {
+  background-color: rgba(128, 0, 128, 0.8);
+}
+
+.pink-bg {
+  background-color: rgba(255, 192, 203, 0.8);
+}
+
+.brown-bg {
+  background-color: rgba(139, 69, 19, 0.8);
+}
+
+.grey-bg {
+  background-color: rgba(220, 220, 220, 0.8);
+}
+
+.black-bg {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.user-image {
+  height: 40px;
+}
